@@ -1,4 +1,4 @@
-# skink
+# Python pipelines project
 
 Sample project for the article on Python data pipelines
 
